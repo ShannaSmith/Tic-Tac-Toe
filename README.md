@@ -1,6 +1,7 @@
 TicTacToe
 
 TicTacToe game created with React
+<img src=”https://user-images.githubusercontent.com/87396782/145189232-d30a50ef-219e-480a-bef3-284f09e84f68.png" alt=”tic-tac-toe board”>
 
 ## Installation:
 `git clone` repository and run 'create-react app server' in your terminal. This file requires node.js to operate.
