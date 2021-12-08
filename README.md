@@ -3,7 +3,7 @@ TicTacToe
 A simple TicTacToe game in React
 
 ## Installation:
-`git clone` repository and run 'create-react app server' in a bash terminal.  Required: node.js and npm to run the server
+`git clone` repository and run 'create-react app server' in your terminal. This file requires node.js to operate.
 
 ## Usage:
 For practice and learning React
